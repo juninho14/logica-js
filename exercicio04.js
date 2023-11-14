@@ -3,7 +3,7 @@ let inicio = 10
 let fim = 20
 let soma = 0
 
-while(inicio < fim){
+while(inicio < fim-1){
     inicio++
     console.log(inicio)
     soma += inicio    
